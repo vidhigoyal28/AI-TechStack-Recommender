@@ -308,6 +308,3 @@ Give this repository a ⭐ on GitHub!
 
 ---
 
-# 📄 License
-
-This project is created for educational and learning purposes.
