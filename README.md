@@ -41,25 +41,7 @@ It also performs **Skill Gap Analysis**, suggesting which skills the user alread
 
 ---
 
-# 🖥️ Demo
 
-### Home Page
-
-> *(Add screenshot here)*
-
----
-
-### Job Recommendations
-
-> *(Add screenshot here)*
-
----
-
-### Dashboard
-
-> *(Add screenshot here)*
-
----
 
 # 🧠 How It Works
 
@@ -304,33 +286,7 @@ This project helped in understanding:
 
 ---
 
-# 📸 Screenshots
 
-Add your screenshots here.
-
-Example:
-
-```
-screenshots/
-
-home.png
-
-recommendation.png
-
-dashboard.png
-```
-
-Markdown
-
-```markdown
-![Home](screenshots/home.png)
-
-![Recommendation](screenshots/recommendation.png)
-
-![Dashboard](screenshots/dashboard.png)
-```
-
----
 
 # 👨‍💻 Author
 
