@@ -1,4 +1,4 @@
-# 🤖 AI Tech Stack Recommendation System
+#  AI Tech Stack Recommendation System
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python">
@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 
 The **AI Tech Stack Recommendation System** is an AI-powered web application that recommends the most suitable IT job roles based on a user's technical skills.
 
@@ -19,31 +19,31 @@ It also performs **Skill Gap Analysis**, suggesting which skills the user alread
 
 ---
 
-# ✨ Features
+# Features
 
-✅ AI-Based Job Recommendation
+ AI-Based Job Recommendation
 
-✅ TF-IDF Vectorization
+ TF-IDF Vectorization
 
-✅ Cosine Similarity Matching
+ Cosine Similarity Matching
 
-✅ Skill Gap Analysis
+ Skill Gap Analysis
 
-✅ Interactive Dashboard
+ Interactive Dashboard
 
-✅ Match Score Visualization
+ Match Score Visualization
 
-✅ Recommended Certifications
+ Recommended Certifications
 
-✅ CSV Download
+ CSV Download
 
-✅ Responsive Streamlit UI
+ Responsive Streamlit UI
 
 ---
 
 
 
-# 🧠 How It Works
+#  How It Works
 
 ### Step 1
 
@@ -94,7 +94,7 @@ Top matching jobs are displayed with
 
 ---
 
-# 📊 Recommendation Workflow
+#  Recommendation Workflow
 
 ```
 User Skills
@@ -117,7 +117,7 @@ Skill Gap Analysis
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 ### Programming Language
 
@@ -147,7 +147,7 @@ Skill Gap Analysis
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```
 AI-TechStack-Recommender/
@@ -165,7 +165,7 @@ AI-TechStack-Recommender/
 
 ---
 
-# 📁 Dataset
+#  Dataset
 
 Dataset Source:
 
@@ -181,7 +181,7 @@ The recommendation engine compares user skills against these job profiles.
 
 ---
 
-# 🚀 Installation
+#  Installation
 
 Clone the repository
 
@@ -223,7 +223,7 @@ streamlit run app.py
 
 ---
 
-# 📈 Sample Output
+#  Sample Output
 
 Example Input
 
@@ -256,7 +256,7 @@ AWS Certified Machine Learning Specialty
 
 ---
 
-# 🎯 Future Improvements
+#  Future Improvements
 
 - Company Recommendations
 - Salary Prediction
@@ -270,7 +270,7 @@ AWS Certified Machine Learning Specialty
 
 ---
 
-# 💡 Learning Outcomes
+#  Learning Outcomes
 
 This project helped in understanding:
 
@@ -288,7 +288,7 @@ This project helped in understanding:
 
 
 
-# 👨‍💻 Author
+#  Author
 
 **Vidhi Goyal**
 
@@ -299,12 +299,6 @@ KIET Group of Institutions
 GitHub:
 
 https://github.com/vidhigoyal28
-
----
-
-# ⭐ If you like this project
-
-Give this repository a ⭐ on GitHub!
 
 ---
 
